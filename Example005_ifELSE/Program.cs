@@ -7,7 +7,7 @@ if(username == "Маша")
 } 
 else
 {
-    Console.Write("Привет, ");
+    Console.Write("Привет, пирожок, ");
     Console.WriteLine(username);
 }
 
