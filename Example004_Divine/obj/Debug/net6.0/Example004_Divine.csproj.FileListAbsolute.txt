@@ -1,0 +1,15 @@
+C:\Users\ПК\Desktop\Examplesss\Example004_Divine\obj\Debug\net6.0\Example004_Divine.csproj.AssemblyReference.cache
+C:\Users\ПК\Desktop\Examplesss\Example004_Divine\obj\Debug\net6.0\Example004_Divine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ПК\Desktop\Examplesss\Example004_Divine\obj\Debug\net6.0\Example004_Divine.AssemblyInfoInputs.cache
+C:\Users\ПК\Desktop\Examplesss\Example004_Divine\obj\Debug\net6.0\Example004_Divine.AssemblyInfo.cs
+C:\Users\ПК\Desktop\Examplesss\Example004_Divine\obj\Debug\net6.0\Example004_Divine.csproj.CoreCompileInputs.cache
+C:\Users\ПК\Desktop\Examplesss\Example004_Divine\bin\Debug\net6.0\Example004_Divine.exe
+C:\Users\ПК\Desktop\Examplesss\Example004_Divine\bin\Debug\net6.0\Example004_Divine.deps.json
+C:\Users\ПК\Desktop\Examplesss\Example004_Divine\bin\Debug\net6.0\Example004_Divine.runtimeconfig.json
+C:\Users\ПК\Desktop\Examplesss\Example004_Divine\bin\Debug\net6.0\Example004_Divine.dll
+C:\Users\ПК\Desktop\Examplesss\Example004_Divine\bin\Debug\net6.0\Example004_Divine.pdb
+C:\Users\ПК\Desktop\Examplesss\Example004_Divine\obj\Debug\net6.0\Example004_Divine.dll
+C:\Users\ПК\Desktop\Examplesss\Example004_Divine\obj\Debug\net6.0\refint\Example004_Divine.dll
+C:\Users\ПК\Desktop\Examplesss\Example004_Divine\obj\Debug\net6.0\Example004_Divine.pdb
+C:\Users\ПК\Desktop\Examplesss\Example004_Divine\obj\Debug\net6.0\Example004_Divine.genruntimeconfig.cache
+C:\Users\ПК\Desktop\Examplesss\Example004_Divine\obj\Debug\net6.0\ref\Example004_Divine.dll
