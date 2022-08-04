@@ -1,0 +1,15 @@
+C:\Users\ПК\Desktop\Examplesss\Example007_JamesBond\bin\Debug\net6.0\Example007_JamesBond.exe
+C:\Users\ПК\Desktop\Examplesss\Example007_JamesBond\bin\Debug\net6.0\Example007_JamesBond.deps.json
+C:\Users\ПК\Desktop\Examplesss\Example007_JamesBond\bin\Debug\net6.0\Example007_JamesBond.runtimeconfig.json
+C:\Users\ПК\Desktop\Examplesss\Example007_JamesBond\bin\Debug\net6.0\Example007_JamesBond.dll
+C:\Users\ПК\Desktop\Examplesss\Example007_JamesBond\bin\Debug\net6.0\Example007_JamesBond.pdb
+C:\Users\ПК\Desktop\Examplesss\Example007_JamesBond\obj\Debug\net6.0\Example007_JamesBond.csproj.AssemblyReference.cache
+C:\Users\ПК\Desktop\Examplesss\Example007_JamesBond\obj\Debug\net6.0\Example007_JamesBond.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ПК\Desktop\Examplesss\Example007_JamesBond\obj\Debug\net6.0\Example007_JamesBond.AssemblyInfoInputs.cache
+C:\Users\ПК\Desktop\Examplesss\Example007_JamesBond\obj\Debug\net6.0\Example007_JamesBond.AssemblyInfo.cs
+C:\Users\ПК\Desktop\Examplesss\Example007_JamesBond\obj\Debug\net6.0\Example007_JamesBond.csproj.CoreCompileInputs.cache
+C:\Users\ПК\Desktop\Examplesss\Example007_JamesBond\obj\Debug\net6.0\Example007_JamesBond.dll
+C:\Users\ПК\Desktop\Examplesss\Example007_JamesBond\obj\Debug\net6.0\refint\Example007_JamesBond.dll
+C:\Users\ПК\Desktop\Examplesss\Example007_JamesBond\obj\Debug\net6.0\Example007_JamesBond.pdb
+C:\Users\ПК\Desktop\Examplesss\Example007_JamesBond\obj\Debug\net6.0\Example007_JamesBond.genruntimeconfig.cache
+C:\Users\ПК\Desktop\Examplesss\Example007_JamesBond\obj\Debug\net6.0\ref\Example007_JamesBond.dll
