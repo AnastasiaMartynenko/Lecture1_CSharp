@@ -1,0 +1,15 @@
+C:\Users\ПК\Desktop\Examplesss\Example005_ifELSE\bin\Debug\net6.0\Example005_ifELSE.exe
+C:\Users\ПК\Desktop\Examplesss\Example005_ifELSE\bin\Debug\net6.0\Example005_ifELSE.deps.json
+C:\Users\ПК\Desktop\Examplesss\Example005_ifELSE\bin\Debug\net6.0\Example005_ifELSE.runtimeconfig.json
+C:\Users\ПК\Desktop\Examplesss\Example005_ifELSE\bin\Debug\net6.0\Example005_ifELSE.dll
+C:\Users\ПК\Desktop\Examplesss\Example005_ifELSE\bin\Debug\net6.0\Example005_ifELSE.pdb
+C:\Users\ПК\Desktop\Examplesss\Example005_ifELSE\obj\Debug\net6.0\Example005_ifELSE.csproj.AssemblyReference.cache
+C:\Users\ПК\Desktop\Examplesss\Example005_ifELSE\obj\Debug\net6.0\Example005_ifELSE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ПК\Desktop\Examplesss\Example005_ifELSE\obj\Debug\net6.0\Example005_ifELSE.AssemblyInfoInputs.cache
+C:\Users\ПК\Desktop\Examplesss\Example005_ifELSE\obj\Debug\net6.0\Example005_ifELSE.AssemblyInfo.cs
+C:\Users\ПК\Desktop\Examplesss\Example005_ifELSE\obj\Debug\net6.0\Example005_ifELSE.csproj.CoreCompileInputs.cache
+C:\Users\ПК\Desktop\Examplesss\Example005_ifELSE\obj\Debug\net6.0\Example005_ifELSE.dll
+C:\Users\ПК\Desktop\Examplesss\Example005_ifELSE\obj\Debug\net6.0\refint\Example005_ifELSE.dll
+C:\Users\ПК\Desktop\Examplesss\Example005_ifELSE\obj\Debug\net6.0\Example005_ifELSE.pdb
+C:\Users\ПК\Desktop\Examplesss\Example005_ifELSE\obj\Debug\net6.0\Example005_ifELSE.genruntimeconfig.cache
+C:\Users\ПК\Desktop\Examplesss\Example005_ifELSE\obj\Debug\net6.0\ref\Example005_ifELSE.dll
